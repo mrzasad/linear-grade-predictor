@@ -84,4 +84,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > **Note**: This application is designed for educational purposes to demonstrate simple linear regression concepts. Actual student performance depends on many factors beyond study hours.
 
+---
+
+<img width="1882" height="841" alt="Screenshot 2026-05-18 033440" src="https://github.com/user-attachments/assets/9b2733d2-b400-476a-85ce-1f0fc0a8eb15" />
+<img width="1900" height="780" alt="Screenshot 2026-05-18 033557" src="https://github.com/user-attachments/assets/13a5284c-4ee5-4fe9-acc7-a4fa7e706ed1" />
+<img width="1835" height="846" alt="Screenshot 2026-05-18 033545" src="https://github.com/user-attachments/assets/9c8fc43a-828d-4d4e-9e8e-39eafe5c3847" />
+<img width="1837" height="790" alt="Screenshot 2026-05-18 033527" src="https://github.com/user-attachments/assets/37b9008a-1c3d-48c2-ad6c-597753f9a9ce" />
+<img width="1863" height="682" alt="Screenshot 2026-05-18 033506" src="https://github.com/user-attachments/assets/5988cb20-4112-48de-afc9-bb0366d9deee" />
+
+
 Made with ❤️ for students | Project: modern
